@@ -19,6 +19,7 @@ var popup = L.popup({
 var control = L.Routing.control({
          waypoints: [
          ],
+          show: false, 
           routeWhileDragging: true,
           units:'imperial',
           collapsible: true,

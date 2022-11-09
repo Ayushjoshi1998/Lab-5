@@ -15,11 +15,4 @@ text-align: center;
 padding-top: 2%;
 }
 
-#map {
-  border-radius: 10px;
-  border-style: solid;
-  border-width: thin;
-  border-color: #808080;
-  background-color: #FDF5E6;
-  text-align: center;
-}
+

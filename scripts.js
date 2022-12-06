@@ -1,6 +1,6 @@
 var map = L.map('map').setView([47.25, -122.44], 11);
 
-L.tileLayer('https://api.mapbox.com/styles/v1/ayushjoshi1380/cla60tfra000715nzx88vusa7/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYXl1c2hqb3NoaTEzODAiLCJhIjoiY2xhN3V2eTVqMDFieTNvbndyd3N1Y3gwMyJ9.VAix39NKk-7ykIybjc4FrA', {
+L.tileLayer('https://api.mapbox.com/styles/v1/ayushjoshi1380/cla61t0xn000s14ms2bcjj6w0/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYXl1c2hqb3NoaTEzODAiLCJhIjoiY2xhajN2bjV0MDhuYTNzbGZ4eXY3aWV0YyJ9.-t8ccvCJhwwHcOdi435HrQ', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox/streets-v11',
